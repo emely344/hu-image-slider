@@ -1,2 +1,2 @@
-# hu-image-slider
+# create Image slider
  
